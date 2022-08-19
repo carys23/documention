@@ -4,8 +4,9 @@
 Edit the existing trip animation widget to have heatmap so it will play back within Tb 
 <br>
 
-* pros
->> can do aggration within TB &nbsp;
+
+> pros
+* can do aggration within TB &nbsp;
 <br>
 
 * cons
