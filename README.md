@@ -13,11 +13,13 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 * Can't add more than one maker
 * Can't add attributes
 
+
 ## Playback
 > pros
 * can add more than one marker
 * can change the intensity 
 <br>
+
 
 > cons
 * can't use aggration within TB
@@ -37,11 +39,12 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 * uses npm
 <br>
 
+
 ## Image-map with Trip animation
 > pros
 * can add an image
 
+
 > cons
 * have to pick one schema for settings
- 
 <br>
