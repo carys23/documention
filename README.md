@@ -1,6 +1,6 @@
 # Heat map playback options
 
-## Trip animation
+# Trip animation
 Edit the existing trip animation widget to have heatmap so it will play back within Tb 
 <br>
 
