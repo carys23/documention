@@ -26,7 +26,7 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 
 > how
 * just the code to make take only one lat, lng maker 
-* make the time change playback to be the intensity 
+* make the playback code to take intensity as well
 <br>
 
 ## TrackPlayback
