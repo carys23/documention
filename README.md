@@ -20,7 +20,7 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 
 > cons
 * can't use aggration within TB
-* will need to used within latest value not time series
+* will need to use within latest value not time series
 * can only add more than one lat/lng as a value so it move
 
 
