@@ -20,13 +20,13 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 
 > cons
 * can't use aggration within TB
-* will need to used within latest value not time series
+* will need to use within latest value not time series
 * can only add more than one lat/lng as a value so it move
 
 
 > how
 * just the code to make take only one lat, lng maker 
-* make the time change playback to be the intensity 
+* make the playback code to take intensity as well
 <br>
 
 ## TrackPlayback
