@@ -41,3 +41,14 @@ Edit the existing trip animation widget to have heatmap so it will play back wit
 > cons
 * have to pick one schema for settings
 
+
+## Route map
+> pros
+* can add an image
+* add timerseries somehow
+
+> cons
+* need to look if can add more than one marker
+* need to check if can add a fixed marker
+
+
